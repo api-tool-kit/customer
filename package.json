@@ -1,0 +1,28 @@
+{
+  "name": "customer",
+  "version": "1.0.0",
+  "description": "customer service for DABGA book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/api-tool-kit/customer.git"
+  },
+  "keywords": [
+    "apitoolkit",
+    "dabga",
+    "pragprog",
+    "mamund",
+    "http",
+    "customer",
+    "microservice"
+  ],
+  "author": "Mike Amundsen (@mamund)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/api-tool-kit/customer/issues"
+  },
+  "homepage": "https://github.com/api-tool-kit/customer#readme"
+}
